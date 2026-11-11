@@ -1,0 +1,13 @@
+# Sistema e editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cópias e arquivos locais
+*.log
+*.tmp
+marmitas-da-mae-configuracoes.json
